@@ -1,7 +1,7 @@
 /*
-                                                  ===============================================================================
-                                                              BASIC DATA EXPLORATION & BUSINESS METRICS ANALYSIS
-                                                 ===============================================================================
+===============================================================================
+BASIC DATA EXPLORATION & BUSINESS METRICS ANALYSIS
+===============================================================================
 
 Purpose: Get to know the data and answer fundamental business questions like
          "How much did we sell?", "Who are the customers?", and "What products work best?"
@@ -26,7 +26,7 @@ Key Functions Used:
 
 Tables analyzed: Customer info, Product catalog, Sales transactions
 ===============================================================================
-                                                                                                                                                                               */
+                                                                                                                    */
 
 
 
