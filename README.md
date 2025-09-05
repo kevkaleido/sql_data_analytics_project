@@ -2,7 +2,7 @@
 
 This project demonstrates my proficiency in using SQL scripts for data exploration, analytics, and reporting. The scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
 
-**Note:** This analytics project builds upon the foundational data warehouse created in my [SQL Data Warehouse Project](https://github.com/kevkaleido/sql-data-warehouse-project). The queries in this repository analyze the gold layer tables (dimensional model) that were designed and implemented in that previous project.
+**Note:** This analytics project builds upon the foundational data warehouse created in my [SQL Data Warehouse Project](https://github.com/kevkaleido/sql-data-warehouse-project).
 
 ## Project Structure
 
