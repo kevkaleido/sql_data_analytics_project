@@ -1,8 +1,8 @@
-# Sql data analytics project
+# Exploratory Analysis in SQL
 
-This project demonstrates my proficiency in using SQL scripts for data exploration, analytics, and reporting. The scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
+This project makes use of SQL scripts for data exploration, analytics, and reporting. The scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
 
-**Note:** This project represents the next step from the SQL Data Warehouse Project I completed previously. You can explore the SQL Data Warehouse Project   [here](https://github.com/kevkaleido/sql-data-warehouse-project).
+**Note:** It represents the next step from the Data Warehouse Project I completed previously. You can explore the Data Warehouse Project here   [here](https://github.com/kevkaleido/sql-data-warehouse-project).
 
 ## Project Structure
 
